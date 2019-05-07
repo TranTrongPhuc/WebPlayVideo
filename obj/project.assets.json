@@ -13001,11 +13001,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PHUCTT\\Desktop\\DemoAppNETCode\\WebASPNETCore\\WebASPNETCore.csproj",
+      "projectUniqueName": "C:\\Users\\PHUCTT\\Desktop\\WebPlayVideo\\WebASPNETCore.csproj",
       "projectName": "WebASPNETCore",
-      "projectPath": "C:\\Users\\PHUCTT\\Desktop\\DemoAppNETCode\\WebASPNETCore\\WebASPNETCore.csproj",
+      "projectPath": "C:\\Users\\PHUCTT\\Desktop\\WebPlayVideo\\WebASPNETCore.csproj",
       "packagesPath": "C:\\Users\\PHUCTT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PHUCTT\\Desktop\\DemoAppNETCode\\WebASPNETCore\\obj\\",
+      "outputPath": "C:\\Users\\PHUCTT\\Desktop\\WebPlayVideo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\",

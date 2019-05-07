@@ -12,6 +12,7 @@ namespace WebASPNETCore.Models
     //}
     public class Admin
     {
+        //Phuc
         [Key]
         public int ID { get; set; }
         public string Name { get; set; }
